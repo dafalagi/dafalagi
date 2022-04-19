@@ -47,6 +47,8 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dafalagi&show_icons=true&locale=en" alt="dafalagi" /></p>
+
+<br>
       
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dafalagi&" alt="dafalagi" /></p>
 
