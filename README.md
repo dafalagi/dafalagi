@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dafarizky34@gmail.com**
 
-- ⚡ Likes : Music, Anime, Football, Games, Movies.
+- ⚡ Likes : Music, Anime, Sports, Games, Movies.
 
 <br>
 
