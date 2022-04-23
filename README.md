@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and many programming languages
 
-- 📫 How to reach me **dafarizky34@gmail.com**
+- 📫 Reach me at **dafarizky34@gmail.com**
 
 - ⚡ Likes : Music, Anime, Sports, Games, Movies.
 
