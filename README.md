@@ -52,4 +52,4 @@
       
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dafalagi&theme=dark&background=0d1117" alt="dafalagi" /></p>
 
-<p align="right">[dafalagi](https://github.com/dafalagi)</p>
+<p align="right"><a href="https://github.com/dafalagi">dafalagi</a></p>
