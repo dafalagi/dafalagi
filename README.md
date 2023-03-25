@@ -14,7 +14,11 @@
 
 - 🌱 I’m currently learning Web Development and many programming languages
 
+- 💻 Very passionate in programming, especially Back-End Web Development.
+
 - 📫 Reach me at **dafarizky34@gmail.com**
+
+- 💬 Ask me about anything! As long as it doesn't hurt anyone, I'm happy to help!
 
 - ⚡ Likes : Music, Anime, Sports, Games, Movies.
 
@@ -22,6 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/dafa-rizky-880973209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dafa-rizky-880973209" height="30" width="40" /></a>
   <a href="https://facebook.com/dafa.rizky.1232" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
