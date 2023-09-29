@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dafa Rizky Fahreza</h1>
-<h3 align="center">Engineering and Computer Science Student at Universitas Komputer Indonesia🌟.</h3>
+<h3 align="center">Junior Web Developer | IT Enthusiast🌟.</h3>
 
 <br>
 
@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning Web Development and many programming languages
 
-- 💻 Very passionate in programming, especially Back-End Web Development.
-
-- 📫 Reach me at **dafarizky34@gmail.com**
+- 💻 Very passionate in software engineering, especially Back-End Web Development.
 
 - 💬 Ask me about anything! As long as it doesn't hurt anyone, I'm happy to help!
 
-- ⚡ Likes : Music, Anime, Sports, Games, Movies.
+- ⚡ I'm open to work and projects!
+
+- 📫 Reach me at **dafarizky34@gmail.com**
 
 <br>
 
