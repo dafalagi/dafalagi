@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and many programming languages
 
-- 💻 Very passionate in software engineering, especially Back-End Web Development.
+- 💻 Very passionate in software engineering, especially Back-End Development.
 
 - 💬 Ask me about anything! As long as it doesn't hurt anyone, I'm happy to help!
 
