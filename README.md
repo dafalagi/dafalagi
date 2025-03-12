@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dafa Rizky Fahreza</h1>
-<h3 align="center">Junior Backend Developer | IT Enthusiast🌟.</h3>
+<h3 align="center">Junior Software Engineer | IT Enthusiast🌟.</h3>
 
 <br>
 
