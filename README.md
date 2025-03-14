@@ -3,6 +3,8 @@
 
 <br>
 
+[![](https://visitcount.itsvg.in/api?id=dafalagi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <p align="right"> <h3>Visitors : </h3> <img src="https://komarev.com/ghpvc/?username=dafalagi&label=Visitors&color=brightgreen&style=flat-square"
     alt="dafalagi" /> 
   </p>
