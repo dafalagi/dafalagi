@@ -26,13 +26,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/dafa-rizky-880973209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dafa-rizky-880973209" height="30" width="40" /></a>
-  <a href="https://facebook.com/dafa.rizky.1232" target="blank"><img align="center"
+  <a href="https://linkedin.com/in/dafarizky002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dafarizky002" height="30" width="40" /></a>
+  <!-- <a href="https://facebook.com/dafa.rizky.1232" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
+      alt="adam pithen wala" height="30" width="40" /></a> -->
   <a href="https://www.instagram.com/dafaa.r" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="dafaa.r" height="30" width="40" /></a>
 </p>
 
 <br>
