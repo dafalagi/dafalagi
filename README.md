@@ -115,7 +115,7 @@
 <br>
 
 <h2>📊 My Stats: </h2>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=dafalagi&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="dafalagi" /></p>
+<p align="left"><img src="https://github-profile-trophy-two-neon.vercel.app/?username=dafalagi&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="dafalagi" /></p>
 
 <br>
 
