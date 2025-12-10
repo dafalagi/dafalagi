@@ -119,7 +119,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafalagi&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="dafalagi" /></p>
+<p><img align="center" src="https://github-readme-stats-mu-kohl.vercel.app/api/top-langs/?username=dafalagi&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="dafalagi" /></p>
 
 <br>
 
@@ -127,7 +127,7 @@
 
 <br>
       
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dafalagi&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" alt="dafalagi" /></p>
+<p><img align="center" src="https://github-readme-stats-mu-kohl.vercel.app/api?username=dafalagi&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" alt="dafalagi" /></p>
 
 <br>
 
