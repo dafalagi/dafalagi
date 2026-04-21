@@ -30,8 +30,6 @@
   <!-- <a href="https://facebook.com/dafa.rizky.1232" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a> -->
-</p>
-<p>
   <a href="https://www.instagram.com/dafaa.r" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="dafaa.r" height="30" width="40" /></a>
