@@ -124,7 +124,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=dafalagi&theme=catppuccin_mocha&hide_border=false" alt="dafalagi" /></p>
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=dafalagi&theme=catppuccin_mocha&hide_border=false" alt="dafalagi" /></p>
 
 <br>
       
